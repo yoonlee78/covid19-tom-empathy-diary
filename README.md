@@ -2,8 +2,8 @@
 
 <br>
 
-### Team
-- [Yoon Kyung Lee]((https://yoonkyunglee.oopy.io))<sup>1*</sup>(Cognitive Psychology PhD Cand. @ Seoul National University)
+### Research Team
+- [Yoon Kyung Lee](https://yoonkyunglee.oopy.io)<sup>1*</sup>(Cognitive Psychology PhD Cand. @ Seoul National University)
 - [Yoonwon Jung](http://hfpsych.snu.ac.kr/Portfolio/portfolio_YoonwonJung.html) <sup>1</sup> 
 - [Inju Lee](http://hfpsych.snu.ac.kr/Portfolio/portfolio_InjuLee.html) <sup>1</sup>
 - [Jae Eun Park](http://hfpsych.snu.ac.kr/Portfolio/portfolio_JaeEunPark.html) <sup>1</sup> 
@@ -230,7 +230,7 @@ Lee, Y. K., Lee, I., Park, J. E., Jung, Y., Kim, J., & Hahn, S. (2021). A Comput
 ```
 
 ## Contact
-### [Yoon Kyung Lee](yoonkyunglee.oopy.io), yoonlee78@snu.ac.kr
+### [Yoon Kyung Lee](https://yoonkyunglee.oopy.io), yoonlee78@snu.ac.kr
 
 ## Acknowledgement
 
