@@ -24,6 +24,8 @@ Academic Counseling Center @ ChungNam National University, Daejeon, Korea
 
 # 1. COVID Emotion Diary (Lee et al., 2021a)
 
+**More information available in our paper >> [(Lee et al., 2021a)](https://escholarship.org/uc/item/950900w7#main)**
+
 ## 1.1. Collection 
 
 <p align="center">
@@ -122,6 +124,9 @@ Lee, Y., Jung, Y., Lee, I., Park, J., & Hahn, S. (2021). Building a Psychologica
 ----
 
 # 2. ToM-BERT: BERT fine-tuned with ToM & Empathy (Lee et al., 2021b )
+
+**More information available in our paper >> [(Lee et al., 2021b)](https://arxiv.org/pdf/2108.11810.pdf)**
+
 
 ## 2.1. Collection
 
@@ -226,7 +231,6 @@ Lee, Y. K., Lee, I., Park, J. E., Jung, Y., Kim, J., & Hahn, S. (2021). A Comput
 
 ## Contact
 ### [Yoon Kyung Lee](yoonkyunglee.oopy.io), yoonlee78@snu.ac.kr
-
 
 ## Acknowledgement
 
